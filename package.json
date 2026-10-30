@@ -1,0 +1,13 @@
+{
+  "name": "dbz-vietnamese-subtitles",
+  "version": "1.0.0",
+  "description": "Vietsub cho Dragon Ball Z Selecta Vision",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.19.0",
+    "stremio-addon-sdk": "^1.6.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
